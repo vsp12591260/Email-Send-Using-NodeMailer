@@ -1,25 +1,23 @@
-# Email-Send-Using-NodeMailer
-Email Using NodeMailer - Date: 23.03.2026
-
-
-Nodemailer-Example
+# Nodemailer-Example
 
 A simple contact form to send mail using nodemailer package in NODE JS.
 
 Shows good practice of code reusability.
 
-Installation
-
+## Installation
 Clone the repository or download it and open the folder in Terminal
 
-Use the package manager npm to install neccessary packages.
+Use the package manager [npm](https://www.npmjs.com/) to install neccessary packages.
 
+```bash
 npm install
-Use
+```
+
+## Use
 
 Fill up the required credentials in "mail.js" file to send mail.
 
-Used CDN and packages'
+## Used CDN and packages'
 
 CDN :- Materialzie CSS for Front-End Designing
 
